@@ -2,7 +2,7 @@
 
 I'm a software developer currently coding using Python, C++ and Typescript!
 
-- 🌱 Currently learning Rust, Go, C# and Java
+- 🌱 Currently learning Rust, Go and C#
 - 🧭 Explore my projects in the [repositories page](https://github.com/fluxth?tab=repositories)
 - 🐧 Uses Linux and macOS with very customized [dotfiles](https://github.com/fluxth/dotfiles)
 - 💬 Ask me [anything!](https://github.com/fluxth/fluxth/issues)
