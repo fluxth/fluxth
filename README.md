@@ -1,8 +1,7 @@
 # Hi, this is fluxth's repo :)
 
-I'm a software developer currently coding using Python, C++ and Typescript!
+I'm a software developer currently coding mainly in Python, Rust, C++ and Typescript!
 
-- 🌱 Currently learning Rust, Go and C#
 - 🔗 View my website at [flux.ci](https://flux.ci)
 - 🧭 Explore my projects in the [repositories page](https://github.com/fluxth?tab=repositories)
 - 🐧 Uses Linux and macOS with very customized [dotfiles](https://github.com/fluxth/dotfiles)
