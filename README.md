@@ -1,6 +1,4 @@
-# Hi, this is fluxth's repo :)
-
-I'm a software developer currently coding mainly in Python, Rust, C++ and Typescript!
+Software developer mainly coding in Rust, Python, C++ and Typescript
 
 - 🔗 Visit my website at [thitat.net](https://thitat.net)
 - 🧭 Explore my projects in the [repositories page](https://github.com/fluxth?tab=repositories)
